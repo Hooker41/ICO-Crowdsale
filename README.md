@@ -1,11 +1,5 @@
 # Readme
 
-### 001_crowdsale
-
-[YouTube Tutorial](https://www.youtube.com/watch?v=ShW2zQcY4LY)
-
-`git clone -b 001_crowdsale git@github.com:rstormsf/ico_per_week.git`
-
 `npm install`
 
 `./node_modules/.bin/truffle compile`
